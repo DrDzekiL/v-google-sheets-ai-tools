@@ -1,51 +1,58 @@
 # DV Google Sheets & AI Tools
 
-AI-ready Google Sheets templates + Apps Script helpers for traders, creators and small teams.
-
-Each module lives in `/sheets/<name>/` and contains:
-
-- `README.md` — what this module does and how to start.
-- `manifest.json` — short structure description.
-- `code.gs` — main Google Apps Script block.
-
-## Modules
-
-- `arena-dashboard` — market / metrics dashboard with notes.
-- `finance-tracker` — cashflow & expenses tracker with future auto-categories.
-- `content-planner` — content calendar with AI-prompt helpers.
-
-## How to use
-
-1. Choose a module in `/sheets/...`.
-2. Create a copy of Google Sheet from the template.
-3. Paste `code.gs` into Apps Script for this sheet.
-4. Configure access/keys if needed (for AI integration).
+A modular collection of **AI-ready Google Sheets templates** with companion **Apps Script** blocks.  
+Designed for automation, productivity, and lightweight workflows.
 
 ---
 
-## 🇷🇺 Описание
+## 🚀 What’s Inside
 
-Набор готовых прототипов на **Google Sheets + Apps Script**, заточенных под автоматизацию и работу с ИИ.
+Each module lives in `/sheets/<module>/` and includes:
 
-### Что внутри (план)
-
-- 🧠 `arena-dashboard` — базовый дашборд под рынок / метрики.  
-- 💰 `finance-tracker` — учёт денег с автоформулами и логикой.  
-- 🧾 `content-planner` — планировщик контента с AI-подсказками.
-
-Каждый шаблон лежит в папке `/sheets/<имя>/` и содержит:
-
-- `README.md` — что делает и как запустить.  
-- `manifest.json` — краткое описание структуры.  
-- `code.gs` — основной код Google Apps Script.
-
-### Как это использовать
-
-1. Выбрать нужный шаблон (папку в `/sheets`).  
-2. Сделать копию Google Sheets по шаблону.  
-3. Залить код `code.gs` в Apps Script.  
-4. Настроить доступы и ключи (если нужен ИИ).
+- **README.md** — module overview and setup instructions  
+- **manifest.json** — structure and metadata  
+- **code.gs** — main Google Apps Script logic  
 
 ---
 
-_Status: v0.1 — prototype phase._
+## 📦 Available Modules (v0.1)
+
+### `arena-dashboard`
+A lightweight dashboard for:
+- market metrics  
+- personal notes and signals  
+- focus and daily rhythm tracking  
+
+### `finance-tracker`
+A minimal finance system for:
+- income & expense tracking  
+- automatic categories  
+- future AppScript automation  
+
+### `content-planner`
+An AI-friendly content planning toolkit:
+- calendar of posts  
+- idea prompts  
+- structured workflow for creators  
+
+---
+
+## 🛠 How to Use
+
+1. Open any module inside `/sheets/<module>/`.
+2. Create a Google Sheets copy from the included template.
+3. Paste **code.gs** into the Apps Script editor.
+4. Configure API keys if the module requires AI integration.
+5. Begin using the prototype — all modules are designed to expand over time.
+
+---
+
+## 📌 Status
+**Version:** `v0.1`  
+**Stage:** Prototype — will grow with new modules, scripts, and automations.
+
+---
+
+## 📬 Feedback & Improvements
+Feel free to open issues or suggestions.  
+This toolkit is evolving and intentionally modular — ideal for expansion and automation experiments.
