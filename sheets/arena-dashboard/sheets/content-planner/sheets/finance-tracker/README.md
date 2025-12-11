@@ -1,10 +1,11 @@
 # Finance Tracker — prototype module
 
-Мини-учёт:
-- доходов и расходов,
-- автоматические категории,
-- будущие интеграции с Apps Script.
+A minimal financial tracking block for Google Sheets:
 
-Стартовый кирпич для любого фин-учёта.
+- income & expense tracking,
+- automatic categorization,
+- future integration with Apps Script.
 
-**Статус:** прототип (будет расширён).
+A clean starting brick for any personal finance workflow.
+
+**Status:** prototype (will be expanded).
