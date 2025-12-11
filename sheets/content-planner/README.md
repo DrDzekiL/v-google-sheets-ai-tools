@@ -1,8 +1,8 @@
-﻿# Arena Dashboard
+﻿# Content Planner
 
 Prototype module from **DV Google Sheets & AI Tools**.
 
-Lightweight dashboard for market metrics and notes.
+AI-friendly content planning toolkit.
 
 ## Files
 

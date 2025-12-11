@@ -1,8 +1,8 @@
-﻿# Arena Dashboard
+﻿# Finance Tracker
 
 Prototype module from **DV Google Sheets & AI Tools**.
 
-Lightweight dashboard for market metrics and notes.
+Minimal finance system for income & expenses.
 
 ## Files
 
